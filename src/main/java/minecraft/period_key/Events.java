@@ -13,7 +13,7 @@ public class Events {
     public void KeyInputEvent(InputEvent.Key event) {
         if (ModKeyBind.period_key.isDown()) {
             if (mc.player == null) return;
-            mc.player.chatSigned(".", Component.empty());
+            mc.player.chatSigned(".", Component.literal("."));
         }
     }
 }
