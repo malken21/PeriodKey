@@ -1,0 +1,2 @@
+# Minecraft_PeriodKey_Forge
+ピリオドをチャットに送信するキーを追加するForge Mod
